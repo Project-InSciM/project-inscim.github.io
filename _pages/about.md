@@ -19,7 +19,7 @@ This project aims to study uncertainty in science through ontological and lingui
 
 [Universite Bourgogne Franche-Comte](https://www.ubfc.fr/en/) <br/>
 [Centre de Recherches Interdisciplinaires et Transculturelles (CRIT)](http://crit.univ-fcomte.fr/) <br/>
-[Institut Universitaire de France](https://www.iufrance.fr/) <\br>
+[Institut Universitaire de France](https://www.iufrance.fr/) 
 
 ## Contact
 
