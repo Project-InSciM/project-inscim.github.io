@@ -47,18 +47,10 @@
 }
 
 .main-nav {
-  position: fixed;
-  top: 0;
-  left: auto;
-  right: -200px;
-  bottom: 0;
-  transform: none;
-  z-index: 100;
-  width: 300px;
-  height: 100vh;
-  padding: 40px 30px 30px;
-  transition: right 0.5s cubic-bezier(0.7, 0.4, 0, 1);
-  background: #fff;
+  position: absolute;
+  top: 50%;
+  left: 70%;
+  transform: translate(-50%, -50%);
 
   .nav-icon__close {
     display: none;
