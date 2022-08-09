@@ -4,7 +4,7 @@ title: Team
 permalink: /member/
 ---
 
-##Project Committe & Members
+## Project Committe & Members
 
 | ![Iana](/images/Iana.png)     | ![Sylviane](/images/Sylviane_CARDEY.png) | ![Laurence](/images/image.png)|
 | :---:        |    :----:   |          :---: |
