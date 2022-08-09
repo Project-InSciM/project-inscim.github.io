@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-permalink: /team/
+permalink: /_team/
 ---
 
 ### Project Committee & Members:
