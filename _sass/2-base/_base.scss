@@ -93,9 +93,9 @@ pre {
 
 img,
 .zoom-img-wrap {
-  max-width: 100%;
-  height: auto;
-  vertical-align: middle;
+	max-width: fit-content;
+	height: max-content;
+	vertical-align: middle;
   &+em {
     text-align: center;
     display: block;
