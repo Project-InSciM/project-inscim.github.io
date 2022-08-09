@@ -6,7 +6,7 @@ permalink: /member/
 
 ##Project Committe & Members
 
-| ![Iana](/images/Iana.png)     | ![Sylviane](/images/Sylviane_CARDEY.png) | ![Laurence](/images/image.jpeg) |
+| ![Iana](/images/Iana.png)     | ![Sylviane](/images/Sylviane_CARDEY.png) | ![Laurence](/images/image.jpeg){:height="36px" width="36px"} |
 | :---:        |    :----:   |          :---: |
 | [Dr. Iana ATANASSOVA](http://tesniere.univ-fcomte.fr/iana/) | [Pr. Sylviane CARDEY](https://www.iufrance.fr/les-membres-de-liuf/membre/1289-sylviane-cardey-greenfield.html) | [Pr. Laurence GAIDA](http://crit.univ-fcomte.fr/download/labo-lhple/document/membres-du-crit/cv-des-membres/fiche-laurence-dahan-gaida.pdf)   |
 | Position: Principal Investigator | Position: Committee Member        | Position: Committee Member      |
