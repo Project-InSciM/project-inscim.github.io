@@ -17,12 +17,12 @@ This project aims to study uncertainty in science through ontological and lingui
 
 ## Partners
 
-[Universite Bourgogne Franche-Comte](https://www.ubfc.fr/en/) <\br>
-[Centre de Recherches Interdisciplinaires et Transculturelles (CRIT)](http://crit.univ-fcomte.fr/) <\br>
+[Universite Bourgogne Franche-Comte](https://www.ubfc.fr/en/) <br/>
+[Centre de Recherches Interdisciplinaires et Transculturelles (CRIT)](http://crit.univ-fcomte.fr/) <br/>
 [Institut Universitaire de France](https://www.iufrance.fr/) <\br>
 
 ## Contact
 
-[Iana Atanassova, Ph.D.](http://tesniere.univ-fcomte.fr/iana/) <\br>
-PI of InSciM project <\br>
+[Iana Atanassova, Ph.D.](http://tesniere.univ-fcomte.fr/iana/) <br/>
+PI of InSciM project <br/>
 Email: iana.atanassova@univ-fcomte.fr
