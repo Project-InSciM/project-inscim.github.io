@@ -8,7 +8,7 @@ description: This is Project InSciM website
 # Author Settings
 author:
   name: PKN
-  image: cover.jpg
+  image: coversmall.png
   say-hello: Welcome to <strong>InSciM Official Website</strong>.
   bio: We are a team of researchers who are studying about Uncertainty in Science. This project is funded by ANR xxxxxxxxx.
 
