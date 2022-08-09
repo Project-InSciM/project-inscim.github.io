@@ -128,10 +128,14 @@
 
 .post__navigation {
   display: flex;
-  align-items: baseline;
   margin-bottom: 80px;
   padding-bottom: 80px;
-  border-bottom: 1px solid $light-gray;
+  border-bottom: 1px solid #e6eef0;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
 
   .prev,
   .next {
