@@ -1,26 +1,28 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
-image: 01.jpg
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+##About InSciM Project
 
-***
+As the world undergoes profound transformations, science is highly solicited, such as in the context of health crises (Covid-19), the reflection and dialogue on climate change, ecological and energy transformations, monetary transformation, humanitarian issues, or geopolitical crises. The perception of uncertainty in scientific discourse is therefore an important issue for all scientific activities.
+In science, the production of new knowledge uses rigorous methodological approaches based on the object of study and its disciplinary field. However, the use of tools or observations that produce a margin of error, as well as the use of abductive and inductive reasoning imply the presence of uncertainty, which can be specific to each discipline, linked to the object of the study and the methodologies that are used. Uncertainty in science is an integral part of the research process.
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+This project aims to study uncertainty in science through ontological and linguistic modelling of this notion from datasets of articles in different disciplines. The objectives are to propose a linguistic model of the expression of uncertainty in scientific articles, in order to propose a tool to identify and classify these phenomena present in papers in different disciplines in Social Sciences and Humanities (SSH) and in Science, Technology, and Medicine (STM).
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+##Funding
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+[French ANR JCJC 2021 - 2025, ANR-21-CE38-0003-01](https://anr.fr/Projet-ANR-21-CE38-0003)
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+##Partners
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+[Universite Bourgogne Franche-Comte](https://www.ubfc.fr/en/)
+[Centre de Recherches Interdisciplinaires et Transculturelles (CRIT)](http://crit.univ-fcomte.fr/)
+[Institut Universitaire de France](https://www.iufrance.fr/)
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+##Contact
+
+[Iana Atanassova, Ph.D.](http://tesniere.univ-fcomte.fr/iana/)
+PI of InSciM project
+Email: iana.atanassova@univ-fcomte.fr
