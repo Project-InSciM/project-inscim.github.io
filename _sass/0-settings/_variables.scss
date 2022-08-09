@@ -34,7 +34,7 @@ $heading-font-color: $dark;
 
 // Links
 $link-color: $url-color;
-$link-color-hover: darken($dark, 15%);
+$link-color-hover: $brand-color;
 
 // Button
 $button-color: $white;
