@@ -1,14 +1,14 @@
 #-------------------------------
 # General Site Settings
 title: InSciM Project
-logo: InscimLogoNew.jpg # You can add own logo.
+logo: InscimLogoNew.png # You can add own logo.
 description: This is Project InSciM website 
 
 #-------------------------------
 # Author Settings
 author:
   name: PKN
-  image: cover.png
+  image: cover.jpg
   say-hello: Welcome to <strong>InSciM Official Website</strong>.
   bio: We are a team of researchers who are studying about Uncertainty in Science. This project is funded by ANR xxxxxxxxx.
 
