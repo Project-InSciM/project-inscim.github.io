@@ -1,7 +1,26 @@
 <!-- begin footer -->
 <footer class="footer">
   <div class="container">
-
+    
+    <div class="logofooter">
+      <a href="https://anr.fr/">
+         <img alt="ANR" src="https://anr.fr/fileadmin/_processed_/c/2/csm_ANR-blanc-sur-bleu_48de3f0dc5.png"
+         width=100" height="50"></a>
+                               
+      <a href="https://www.ubfc.fr/">
+         <img alt="UBFC" src="https://upload.wikimedia.org/wikipedia/fr/4/49/Logo_UBFC.png"
+         width=100" height="50"></a>
+      
+      <a href="http://crit.univ-fcomte.fr/">
+         <img alt="CRIT" src="https://sciencesexpertise-bfc.fr/uploads/laboratoire/crit.jpg"
+         width=100" height="50"></a>
+                               
+      <a href="https://www.iufrance.fr/">
+         <img alt="iuf" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_IUF.png"
+         width=100" height="50"></a>
+     
+    </div>
+    
     {% if site.data.settings.mailchimp %}
     {% include subscribe.html %}
     {% else %} {% endif %}
@@ -14,13 +33,9 @@
 
     <div class="copyright">Copyright &copy; {{site.time | date: '%Y'}} <a href="/">{{ site.data.settings.title }}</a> — All right Reserved. Powered by <a href="https://jekyllrb.com/">Jekyll</a>.</div>
 
-    <div class="logofooter">
-      <a href="https://www.ubfc.fr/">
-         <img alt="UBFC" src="https://upload.wikimedia.org/wikipedia/fr/4/49/Logo_UBFC.png"
-         width=100" height="50">
-      </a>
-   </div>
     
+   
+    </div>
     
 </div>
 </footer>
