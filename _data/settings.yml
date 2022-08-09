@@ -9,8 +9,8 @@ description: This is Project InSciM website
 author:
   name: PKN
   image: cover.png
-  say-hello: Welcome to <strong>InSciM Official Website</strong>.
-  bio: We are a team of researchers who are studying about Uncertainty in Science. This project is funded by ANR xxxxxxxxx.
+  say-hello: Welcome to <strong>InSciM Official Home Page</strong>.
+  bio: InSciM is a project concerning Modeling Uncertainty in Science (InSciM), funded by [French ANR JCJC 2021 - 2025, ANR-21-CE38-0003-01](https://anr.fr/Projet-ANR-21-CE38-0003).
 
 
 #-------------------------------
