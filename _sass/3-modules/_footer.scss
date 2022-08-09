@@ -5,6 +5,10 @@
   border-top: 1px solid $light-gray;
   background: #f5f5f5;
 
+  .logofooter {
+    background: transparent url(path/to/image) no-repeat bottom center;
+  }
+  
   .contact {
     margin-bottom: 15px;
   }
