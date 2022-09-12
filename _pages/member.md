@@ -25,6 +25,7 @@ permalink: /member/
 
 <br />
 ## Project Advisory Board & Members
+
 | ![Sylviane](/images/Sylviane_CARDEY.png) | ![Laurence](/images/image.png) | ![Christophe](/images/Chris.png) |
 | :---:        |    :---:   |          :---: |
 | [Pr. Sylviane CARDEY](https://www.iufrance.fr/les-membres-de-liuf/membre/1289-sylviane-cardey-greenfield.html) | [Pr. Laurence GAIDA](http://crit.univ-fcomte.fr/download/labo-lhple/document/membres-du-crit/cv-des-membres/fiche-laurence-dahan-gaida.pdf)   | [Pr. Christophe ROCHE](https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/christophe-roche/) |
