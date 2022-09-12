@@ -32,7 +32,7 @@ permalink: /member/
 | CRIT, University of Bourgogne Franche-Comté | CRIT, University of Bourgogne Franche-Comté | LISTIC, University Savoie Mont Blanc| IRIT, University of Toulouse | 
 
 | ![Marc](/images/Marc.png) | ![Michael](/images/Michael_Faerber.png)     | ![Isabelle](/images/Isabelle_drouet.png) | 
-| :---:        |    :---:   |          :---: |           :---: |
+| :---:        |    :---:   |          :---: |
 | [Dr. Marc BERTIN](https://elico-recherche.msh-lse.fr/membres/marc-bertin)   | [Dr. Michael FARBER](https://www.researchgate.net/profile/Michael_Faerber) | [Dr. Isabelle DROUET](https://lettres.sorbonne-universite.fr/sites/default/files/media/2020-04/drouet%20isabelle_sept19.pdf) |
 | ELICO, University Claude Bernard Lyon 1 | Karlsruhe Institute of Technology| SND, Sorbonne University |
  
