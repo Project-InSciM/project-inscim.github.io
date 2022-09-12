@@ -4,13 +4,28 @@ title: Team
 permalink: /member/
 ---
 
-## Project Advisory Board & Members
+## Project Leader
 
-| ![Iana](/images/Iana.png)     | ![Sylviane](/images/Sylviane_CARDEY.png) | ![Laurence](/images/image.png)|
-| :---:        |    :----:   |          :---: |
-| [Dr. Iana ATANASSOVA](http://tesniere.univ-fcomte.fr/iana/) | [Pr. Sylviane CARDEY](https://www.iufrance.fr/les-membres-de-liuf/membre/1289-sylviane-cardey-greenfield.html) | [Pr. Laurence GAIDA](http://crit.univ-fcomte.fr/download/labo-lhple/document/membres-du-crit/cv-des-membres/fiche-laurence-dahan-gaida.pdf)   |
-| Position: Principal Investigator | Position: Committee Member        | Position: Committee Member      |
-| CRIT, University of Bourgogne Franche-Comté | CRIT, University of Bourgogne Franche-Comté | CRIT, University of Bourgogne Franche-Comté|
+| ![Iana](/images/Iana.png)     | 
+| :------:        |   
+| [Dr. Iana ATANASSOVA](http://tesniere.univ-fcomte.fr/iana/) | 
+| Position: Principal Investigator |
+| CRIT, University of Bourgogne Franche-Comté |
+
+## Project Member
+
+| ![Panggih](/images/panggih.png) |
+| :---:        |
+| [Panggih Kusuma NINGRUM](https://ningrumdaud.github.io)   |
+| Position: Ph.D. Fellow      |
+| CRIT, University of Bourgogne Franche-Comté|
+
+## Project Advisory Board & Members
+| ![Sylviane](/images/Sylviane_CARDEY.png) | ![Laurence](/images/image.png)|
+| :------:        |    :-------:   |
+| [Pr. Sylviane CARDEY](https://www.iufrance.fr/les-membres-de-liuf/membre/1289-sylviane-cardey-greenfield.html) | [Pr. Laurence GAIDA](http://crit.univ-fcomte.fr/download/labo-lhple/document/membres-du-crit/cv-des-membres/fiche-laurence-dahan-gaida.pdf)   |
+| Position: Committee Member        | Position: Committee Member      |
+| CRIT, University of Bourgogne Franche-Comté | CRIT, University of Bourgogne Franche-Comté|
 
 | ![Christophe](/images/Chris.png)     | ![Marc](/images/Guillaume.png) | ![Guillaume](/images/Marc.png) |
 | :---:        |    :----:   |          :---: |
@@ -18,8 +33,8 @@ permalink: /member/
 | Position: Committee Member | Position: Committee Member        | Position: Committee Member      |
 | LISTIC, University Savoie Mont Blanc| IRIT, University of Toulouse | ELICO, University Claude Bernard Lyon 1|
 
-| ![Michael](/images/Michael_Faerber.png)     | ![Isabelle](/images/Isabelle_drouet.png) | ![Panggih](/images/panggih.png) |
-| :---:        |    :----:   |          :---: |
-| [Dr. Michael FARBER](https://www.researchgate.net/profile/Michael_Faerber) | [Dr. Isabelle DROUET](https://lettres.sorbonne-universite.fr/sites/default/files/media/2020-04/drouet%20isabelle_sept19.pdf) | [Panggih Kusuma NINGRUM](https://ningrumdaud.github.io)   |
-| Position: Committee Member | Position: Committee Member        | Position: Ph.D. Fellow      |
-| Karlsruhe Institute of Technology| SND, Sorbonne University | CRIT, University of Bourgogne Franche-Comté|
+| ![Michael](/images/Michael_Faerber.png)     | ![Isabelle](/images/Isabelle_drouet.png) | 
+| :---:        |    :----:   |
+| [Dr. Michael FARBER](https://www.researchgate.net/profile/Michael_Faerber) | [Dr. Isabelle DROUET](https://lettres.sorbonne-universite.fr/sites/default/files/media/2020-04/drouet%20isabelle_sept19.pdf) |
+| Position: Committee Member | Position: Committee Member        |
+| Karlsruhe Institute of Technology| SND, Sorbonne University |
