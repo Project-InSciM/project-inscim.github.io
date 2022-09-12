@@ -12,8 +12,8 @@ permalink: /member/
 | Position: Principal Investigator |
 | CRIT, University of Bourgogne Franche-Comté |
 
-<br />
 
+<br />
 ## Project Member
 
 | ![Panggih](/images/panggih.png) |
@@ -22,8 +22,8 @@ permalink: /member/
 | Position: Ph.D. Fellow      |
 | CRIT, University of Bourgogne Franche-Comté|
 
-<br />
 
+<br />
 ## Project Advisory Board & Members
 | ![Sylviane](/images/Sylviane_CARDEY.png) | ![Laurence](/images/image.png) | ![Christophe](/images/Chris.png) |
 | :---:        |    :---:   |          :---: |
