@@ -23,20 +23,20 @@ permalink: /member/
 
 
 ## Project Advisory Board & Members
-| ![Sylviane](/images/Sylviane_CARDEY.png) | ![Laurence](/images/image.png)|
-| :------:        |    :---:   |
-| [Pr. Sylviane CARDEY](https://www.iufrance.fr/les-membres-de-liuf/membre/1289-sylviane-cardey-greenfield.html) | [Pr. Laurence GAIDA](http://crit.univ-fcomte.fr/download/labo-lhple/document/membres-du-crit/cv-des-membres/fiche-laurence-dahan-gaida.pdf)   |
-| Position: Committee Member        | Position: Committee Member      |
-| CRIT, University of Bourgogne Franche-Comté | CRIT, University of Bourgogne Franche-Comté|
-
-| ![Christophe](/images/Chris.png)     | ![Marc](/images/Guillaume.png) | ![Guillaume](/images/Marc.png) |
+| ![Sylviane](/images/Sylviane_CARDEY.png) | ![Laurence](/images/image.png) | ![Christophe](/images/Chris.png) 
 | :---:        |    :----:   |          :---: |
-| [Pr. Christophe ROCHE](https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/christophe-roche/) | [Dr. Guillaume CABANAC](https://www.irit.fr/~Guillaume.Cabanac/) | [Dr. Marc BERTIN](https://elico-recherche.msh-lse.fr/membres/marc-bertin)   |
-| Position: Committee Member | Position: Committee Member        | Position: Committee Member      |
-| LISTIC, University Savoie Mont Blanc| IRIT, University of Toulouse | ELICO, University Claude Bernard Lyon 1|
+| [Pr. Sylviane CARDEY](https://www.iufrance.fr/les-membres-de-liuf/membre/1289-sylviane-cardey-greenfield.html) | [Pr. Laurence GAIDA](http://crit.univ-fcomte.fr/download/labo-lhple/document/membres-du-crit/cv-des-membres/fiche-laurence-dahan-gaida.pdf)   | [Pr. Christophe ROCHE](https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/christophe-roche/) |
+| Position: Committee Member        | Position: Committee Member      |  Position: Committee Member      |
+| CRIT, University of Bourgogne Franche-Comté | CRIT, University of Bourgogne Franche-Comté | LISTIC, University Savoie Mont Blanc|
 
-| ![Michael](/images/Michael_Faerber.png)     | ![Isabelle](/images/Isabelle_drouet.png) | 
-| :---:        |    :----:   |
-| [Dr. Michael FARBER](https://www.researchgate.net/profile/Michael_Faerber) | [Dr. Isabelle DROUET](https://lettres.sorbonne-universite.fr/sites/default/files/media/2020-04/drouet%20isabelle_sept19.pdf) |
-| Position: Committee Member | Position: Committee Member        |
-| Karlsruhe Institute of Technology| SND, Sorbonne University |
+| ![Guillaume](/images/Marc.png) |![Marc](/images/Guillaume.png) | ![Michael](/images/Michael_Faerber.png)     |
+| :---:        |    :----:   |          :---: |
+| [Dr. Guillaume CABANAC](https://www.irit.fr/~Guillaume.Cabanac/) | [Dr. Marc BERTIN](https://elico-recherche.msh-lse.fr/membres/marc-bertin)   | [Dr. Michael FARBER](https://www.researchgate.net/profile/Michael_Faerber) | 
+| Position: Committee Member | Position: Committee Member        | Position: Committee Member      |
+| IRIT, University of Toulouse | ELICO, University Claude Bernard Lyon 1| Karlsruhe Institute of Technology|
+
+| ![Isabelle](/images/Isabelle_drouet.png) | 
+| :---:        |
+| [Dr. Isabelle DROUET](https://lettres.sorbonne-universite.fr/sites/default/files/media/2020-04/drouet%20isabelle_sept19.pdf) |
+| Position: Committee Member |
+| SND, Sorbonne University |
