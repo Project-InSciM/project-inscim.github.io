@@ -13,6 +13,7 @@ permalink: /member/
 
 
 <br />
+
 ## Ph.D. Fellow
 
 | ![Panggih](/images/panggih.png) |
