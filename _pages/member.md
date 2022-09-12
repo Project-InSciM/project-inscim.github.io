@@ -12,6 +12,7 @@ permalink: /member/
 | Position: Principal Investigator |
 | CRIT, University of Bourgogne Franche-Comté |
 
+
 ## Project Member
 
 | ![Panggih](/images/panggih.png) |
@@ -20,9 +21,10 @@ permalink: /member/
 | Position: Ph.D. Fellow      |
 | CRIT, University of Bourgogne Franche-Comté|
 
+
 ## Project Advisory Board & Members
 | ![Sylviane](/images/Sylviane_CARDEY.png) | ![Laurence](/images/image.png)|
-| :------:        |    :------:   |
+| :------:        |    :---:   |
 | [Pr. Sylviane CARDEY](https://www.iufrance.fr/les-membres-de-liuf/membre/1289-sylviane-cardey-greenfield.html) | [Pr. Laurence GAIDA](http://crit.univ-fcomte.fr/download/labo-lhple/document/membres-du-crit/cv-des-membres/fiche-laurence-dahan-gaida.pdf)   |
 | Position: Committee Member        | Position: Committee Member      |
 | CRIT, University of Bourgogne Franche-Comté | CRIT, University of Bourgogne Franche-Comté|
