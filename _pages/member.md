@@ -31,7 +31,7 @@ permalink: /member/
 | [Pr. Sylviane CARDEY](https://www.iufrance.fr/les-membres-de-liuf/membre/1289-sylviane-cardey-greenfield.html) | [Pr. Laurence GAIDA](http://crit.univ-fcomte.fr/download/labo-lhple/document/membres-du-crit/cv-des-membres/fiche-laurence-dahan-gaida.pdf)   | [Pr. Christophe ROCHE](https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/christophe-roche/) |
 | CRIT, University of Bourgogne Franche-Comté | CRIT, University of Bourgogne Franche-Comté | LISTIC, University Savoie Mont Blanc|
 
-| ![Guillaume](/images/Marc.png) |![Marc](/images/Guillaume.png) | ![Michael](/images/Michael_Faerber.png)     |
+| ![Guillaume](/images/Guillaume.png) |![Marc](/images/Marc.png) | ![Michael](/images/Michael_Faerber.png)     |
 | :---:        |    :---:   |          :---: |
 | [Dr. Guillaume CABANAC](https://www.irit.fr/~Guillaume.Cabanac/) | [Dr. Marc BERTIN](https://elico-recherche.msh-lse.fr/membres/marc-bertin)   | [Dr. Michael FARBER](https://www.researchgate.net/profile/Michael_Faerber) | 
 | IRIT, University of Toulouse | ELICO, University Claude Bernard Lyon 1| Karlsruhe Institute of Technology|
