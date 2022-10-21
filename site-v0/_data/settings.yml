@@ -10,16 +10,13 @@ author:
   name: PKN
   image: cover.png
   say-hello: Welcome to <strong>InSciM Official Home Page</strong>.
-  bio: >
-          ANR InSciM Project is funded by <a href="https://anr.fr/Projet-ANR-21-CE38-0003" target="_blank">French ANR JCJC 2021 - 2025, ANR-21-CE38-0003-01</a> (2021-2024).
-          <p style="text-center"><img class="logo__image" src="images/anr.png" style="max-height: 80px;"></p>
-          <p></p>
-  
+  bio: InSciM is a project concerning Modelling Uncertainty in Science (InSciM), funded by <a href="https://anr.fr/Projet-ANR-21-CE38-0003">French ANR JCJC 2021 - 2025, ANR-21-CE38-0003-01</a>.
+
 
 #-------------------------------
 # Contact links
-# twitter: https://twitter.com/ # Add your Twitter handle
-# facebook: https://facebook.com/ # Add your Facebook handle
+twitter: https://twitter.com/ # Add your Twitter handle
+facebook: https://facebook.com/ # Add your Facebook handle
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
 #instagram: https://instagram.com/ # Add your Instagram handle
 #pinterest: https://pinterest.com/ # Add your Pinterest handle
@@ -27,7 +24,7 @@ author:
 
 #-------------------------------
 # Comment Section (Disqus)
-# disqus-identifier: Admin # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: Admin # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
