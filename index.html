@@ -17,10 +17,15 @@
     
     <style>
     .full-center {
-      padding: 50px; /* Adjust the padding values according to your preference */
       display: flex;
       justify-content: center;
       align-items: center;
+    }
+    @media (max-width: 768px) {
+            /* Adjust the padding for smaller screens */
+            .post-container {
+                padding: 0 10px; /* Decrease the padding values for mobile devices */
+            }
     }
     footer {
       text-align: center;
